@@ -9,3 +9,5 @@ This project will be used to showcase different approaches in machine learning/d
 ## Preliminary Analysis
 Using the pre-processes data, Artificail Neural Network (ANN) was used to create a model to predict a UFC fight. 
 
+### Improving ANN
+As of this writing (7 Oct 19), Gridsearch is in script but causing errors. Debugging is on going to improve the model. I might consider going back to the raw data and conduct data cleaning and EDA and see if I would arrive at the same dataset or prediction.
